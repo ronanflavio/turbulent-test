@@ -27,7 +27,7 @@ See all Laravel requirements [here](https://laravel.com/docs/8.x#server-requirem
 
 4. Create the environment file through the example
     ```
-    copy .env.example .env
+    cp .env.example .env
     ```
 
 5. Configure the database environment variables
